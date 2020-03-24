@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap');
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+body{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: #383838;
+}
+
+header{
+    background-color: #fff;
+    padding: 15px 0;
+    width: 50%;
+    z-index: 10000;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+
+
+#home{
+	background-image: url( "../img/banner.jpg");
+  	background-size: cover;
+    background-position: center;
+    padding: 10% 0;
+    color: #fff;
+    position: relative;
+    height: 100vh;
+}
+
+
+#home h4{
+	padding-top: 40px;
+	font-style: italic;
+	color: #1F1F1F;
+}
+
+.ml-auto{
+	margin-right: 60px;
+	
+}
+
+.btn-light-trans{ 
+	
+	background-color: transparent;
+	border-color: #FFFFFF;
+    font-size: 13px;
+    letter-spacing: 1px;
+	color: #FFFFFF;
+	border-radius: 2;
+	padding: 10px 30px;
+	font-family: 'Montserrat';
+	text-transform: uppercase;
+	
+	
+}
+
+#about{
+	background-color: #E6E6E6;
+	padding: 30px,0;
+}
+
+#about .titulo{
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	padding-top: 40px;
+	font-weight: 600;
+}
+
+#about .subtitulo{
+	font-size: 16px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	font-weight: 200;
+}
+
+#about p{
+	font-size: 15px;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+}
+
+#about img{
+	padding-bottom: 30px;
+}
+
+#services{
+	background-color: #fff;
+	padding: 20px,0;
+	padding-bottom: 40px;
+}
+
+#services .titulo{
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	padding-top: 40px;
+	font-weight: 600;
+}
+
+#services .subtitulo{
+	font-size: 16px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	font-weight: 200;
+	font-style: italic;
+}
+
+#services .serv-sub{
+	text-align: center;
+	color: #4C4C4C;
+	padding-top: 40px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	
+}
+
+#services p{
+	text-align: center;
+	color: #949494;
+}
+
+#services img{
+	text-align: center;	
+}
+
+#works{
+	background-color: #E6E6E6;
+	padding: 20,0;
+	padding-bottom: 30px;
+}
+
+#works .titulo{
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	padding-top: 40px;
+	font-weight: 600;
+}
+
+#works .subtitulo{
+	font-size: 16px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	font-weight: 200;
+	font-style: italic;
+}
+
+#works h5{
+	text-align: center;
+	color: #878787;
+	font-size: 14px;
+	font-weight: 200;
+	padding: 20px,0;
+	padding-top: 20px;
+}
+
+#contact{
+	padding-top: 30px;
+	background-image: url( "../img/79O0B4764.jpg");
+  	background-size: cover;
+    background-position: center;
+    padding: 10% 0;
+    color: #fff;
+    position: relative;
+    height: 100vh;
+}
+
+#contact h4{
+	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+
+
+
+
+
+
+
+
+footer p{
+	color: #414141;
+	font-family: 'Futura';
+	letter-spacing: 2px;
+	font-weight: 300;
+	padding-top: 20px;
+}
+
+footer{
+	text-align: center;
+	background-image: url("../img/white-marble.jpg");
+	
+}
+
+footer img{
+	text-align: center;
+	padding: 0.1% 0;
+	background-size: cover;
+	
+	
+}
+
+p #copy{
+	margin-bottom: 0px !important;
+	
+}
+#copy{
+	padding-top: 10px;
+	
+}
